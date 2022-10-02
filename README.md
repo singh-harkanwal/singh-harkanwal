@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1>Hi, I'm Harkanwal! <br/>Programmer, and Cybersecurity Professional</h1>
 
-<!--
-**singh-harkanwal/singh-harkanwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2><img align="left" alt="singh-harkanwal | ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" /> ReactJS Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Weather Forecast: Find out temperature, humidity, and weather conditions</b>
+  - [GitHub](https://github.com/singh-harkanwal/weather-forecast)
+  - [Demo](https://weather-forecast-hs.netlify.app/)
+- <b>Displays the most livable cities in the word</b>
+  - [GitHub](https://github.com/singh-harkanwal/the-most-livable-city)
+  - [Demo](https://the-most-livable-city-hs.netlify.app/)
+- <b>React Redux Game: Search a treasure box in a forest</b>
+  - [GitHub](https://github.com/singh-harkanwal/react-redux-game)
+  - [Demo](https://react-redux-game-hs.netlify.app/)
+- <b>A website using React Router)</b>
+  - [GitHub](https://github.com/singh-harkanwal/city-pizza)
+  - [Demo](https://city-pizza-hs.netlify.app/)
+- <b>Portfolio hosted on Netlify</b>
+  - [GitHub](https://github.com/singh-harkanwal/portfolio)
+  - [Demo](https://singh-harkanwal.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="singh-harkanwal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="singh-harkanwal | Netlify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />][Portfolio]
+[<img align="left" alt="singh-harkanwal | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Github]
+
+[Linkedin]: https://www.linkedin.com/in/singh-harkanwal/
+[Portfolio]: https://singh-harkanwal.netlify.app/
+[GitHub]: https://github.com/singh-harkanwal/
