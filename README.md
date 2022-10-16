@@ -2,7 +2,7 @@
 
 <h2><img align="left" alt="singh-harkanwal | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />Python Projects:</h2>
 
-- <b>RSA Encrypt Dcrypt: This program generates rsa public and private keys, use public key to encrypt a message, and private key to decrypt the message</b>
+- <b>RSA Encrypt Decrypt: This program generates rsa public and private keys, use public key to encrypt a message, and private key to decrypt the message</b>
   - [GitHub](https://github.com/singh-harkanwal/rsa-encrypt-decrypt)
 - <b>Internet Speed Test: This program tests internet speed</b>
   - [GitHub](https://github.com/singh-harkanwal/internet-speed-test)
