@@ -1,6 +1,18 @@
 <h1>Hi, I'm Harkanwal! <br/>Programmer, and Cybersecurity Professional</h1>
 
-<h2><img align="left" alt="singh-harkanwal | ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" /> ReactJS Projects:</h2>
+<h2><img align="left" alt="singh-harkanwal | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />Python Projects:</h2>
+
+- <b>RSA Encrypt Dcrypt: This program generates rsa public and private keys, use public key to encrypt a message, and private key to decrypt the message</b>
+  - [GitHub](https://github.com/singh-harkanwal/rsa-encrypt-decrypt)
+- <b>Internet Speed Test: This program tests internet speed</b>
+  - [GitHub](https://github.com/singh-harkanwal/internet-speed-test)
+- <b>Bandwidth Monitor: This program provides the number of bytes and packets exchanged per second</b>
+  - [GitHub](https://github.com/singh-harkanwal/bandwidth-monitor)
+- <b>Password Strength Checker: This python program checks password strength and suggests any missing criteria</b>
+  - [GitHub](https://github.com/singh-harkanwal/password-strength-checker)
+   
+<h2><img alt="singh-harkanwal | JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" /> JavaScript & 
+  <img alt="singh-harkanwal | ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" /> ReactJS Projects:</h2>
 
 - <b>Weather Forecast: Find out temperature, humidity, and weather conditions</b>
   - [GitHub](https://github.com/singh-harkanwal/weather-forecast)
@@ -11,7 +23,7 @@
 - <b>React Redux Game: Search a treasure box in a forest</b>
   - [GitHub](https://github.com/singh-harkanwal/react-redux-game)
   - [Demo](https://react-redux-game-hs.netlify.app/)
-- <b>A website using React Router)</b>
+- <b>A website using React Router</b>
   - [GitHub](https://github.com/singh-harkanwal/city-pizza)
   - [Demo](https://city-pizza-hs.netlify.app/)
 - <b>Portfolio hosted on Netlify</b>
